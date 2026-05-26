@@ -100,7 +100,9 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 ### OUTPUT
 
 ## Loss Vs Epoch Plot
-<img width="283" height="347" alt="image" src="https://github.com/user-attachments/assets/85522ef7-eefb-45aa-99d4-3220642b291b" />
+
+<img width="498" height="423" alt="image" src="https://github.com/user-attachments/assets/9671c200-c9aa-4311-87d9-3720b741ed0f" />
+
 
 
 
