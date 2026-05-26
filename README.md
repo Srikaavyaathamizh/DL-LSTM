@@ -1,4 +1,3 @@
-<img width="515" height="425" alt="image" src="https://github.com/user-attachments/assets/536835d3-4bee-445f-9364-2cda76c86595" /># DL- Developing a Deep Learning Model for NER using LSTM
 # Experiment 6 : Developing a Deep Learning Model for NER using LSTM
 ## NAME : Srikaavyaa T
 ## REGISTRATION NUMBER : 212223230214
@@ -107,7 +106,8 @@ def train_model(model, train_loader, test_loader, loss_fn, optimizer, epochs=3):
 
 
 ### Sample Text Prediction
-![Uploading image.png…]()
+<img width="283" height="347" alt="image" src="https://github.com/user-attachments/assets/08542817-12d3-445a-ba79-de9c062ef958" />
+
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text has been developed successfully.
